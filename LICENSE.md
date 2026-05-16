@@ -1,4 +1,4 @@
-# 
+# Polymarket smart Automation Script: price-monitoring & trailing-stops offers the most advanced Polymarket automation-script, with price-monitoring and trailing-stops. Ideal for
 
 
 
